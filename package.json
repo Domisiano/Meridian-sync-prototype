@@ -1,0 +1,10 @@
+{
+  "name": "meridian-sync-prototype",
+  "version": "1.0.0",
+  "description": "Northstar live inventory sync service serverless prototype",
+  "main": "api/sync-receiver.js",
+  "scripts": {
+    "start": "node api/sync-receiver.js"
+  },
+  "dependencies": {}
+}
